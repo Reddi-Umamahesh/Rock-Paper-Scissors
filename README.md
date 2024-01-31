@@ -1,2 +1,2 @@
-# The-Odin-Project
-Projects of Odin website
+# Rock Paper Scissors
+Project of Odin website, 
